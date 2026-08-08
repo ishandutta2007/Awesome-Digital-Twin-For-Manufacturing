@@ -1,46 +1,40 @@
-# Awesome-Digital-Twin-For-Manufacturing
+<!-- SEO Description: A curated list of awesome digital twin platforms, open-source repositories, SaaS products, and IIoT tools for manufacturing, factory simulation, and Industry 4.0. -->
+# Awesome Digital Twin for Manufacturing 🏭
 
-## Top Digital Twin for Manufacturing Platforms Ecosystem
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Digital Twin for Manufacturing Banner" width="800" />
+</div>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🌟 Top Digital Twin for Manufacturing Platforms Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**Curated List of SaaS Products & Open-Source GitHub Projects** 💻
 
-*Focused on Factory Digital Twins, Product Lifecycle Twins, Simulation, IIoT Integration & Real-Time Operational Mirroring*  
+*Focused on Factory Digital Twins, Product Lifecycle Twins, Simulation, IIoT Integration & Real-Time Operational Mirroring* ⚙️
 
-**Last updated: August 2026**
+**Last updated: August 2026** 📅
 
+This repository tracks notable **SaaS platforms** ☁️ and **open-source projects** 🌐 for **Digital Twin for Manufacturing**. These tools create virtual representations of products, processes, equipment, and entire factories, synchronizing with real-world IoT/OT data for simulation, predictive maintenance, process optimization, what-if analysis, and closed-loop control across the manufacturing lifecycle.
 
+**Examples** include Siemens Digital Twin / Xcelerator, Dassault 3DEXPERIENCE, PTC ThingWorx, Bentley iTwin, C3 AI Digital Twin, Azure Digital Twins, Ansys Twin Builder, Altair Twin Activate, AVEVA CONNECT, and Unity Industry (the category leaders). 🚀
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Digital Twin for Manufacturing**. These tools create virtual representations of products, processes, equipment, and entire factories, synchronizing with real-world IoT/OT data for simulation, predictive maintenance, process optimization, what-if analysis, and closed-loop control across the manufacturing lifecycle.
+**Open-source emphasis**: This section is heavily expanded with every major active project for digital twin frameworks, Asset Administration Shells, simulation-based twins, IoT twin middleware, and open manufacturing digitalization stacks — ideal for manufacturers, industrial engineers, researchers, and developers building transparent, standards-based digital twin solutions. 🛠️
 
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites. 🤝
 
+## 📑 Table of Contents
+- [SaaS/Hosted Platforms](#saashosted-platforms-☁️)
+- [Open-Source GitHub Projects](#open-source-github-projects-🌐)
+- [How to Contribute](#how-to-contribute-💡)
+- [Disclaimer](#disclaimer-⚠️)
+- [Star History](#star-history-📈)
 
-**Examples** include Siemens Digital Twin / Xcelerator, Dassault 3DEXPERIENCE, PTC ThingWorx, Bentley iTwin, C3 AI Digital Twin, Azure Digital Twins, Ansys Twin Builder, Altair Twin Activate, AVEVA CONNECT, and Unity Industry (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for digital twin frameworks, Asset Administration Shells, simulation-based twins, IoT twin middleware, and open manufacturing digitalization stacks — ideal for manufacturers, industrial engineers, researchers, and developers building transparent, standards-based digital twin solutions.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
+## SaaS/Hosted Platforms ☁️
 
 | Platform | Description | Pricing | Free Tier Limit | Company Size (Rev/Val) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,140 +49,93 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Altair Twin Activate](https://www.altair.com/)** | System simulation and digital twin platform for multi-physics modeling, co-simulation, and real-time twin deployment (now part of broader Altair/Siemens ecosystem). | Custom/Contact Sales (Altair Units based) | Free Personal Edition (non-commercial, node-locked) & Student Edition | ~$7B Market Cap / ~$612M Rev |
 | **[C3 AI Digital Twin](https://c3.ai/)** | AI-centric digital twin solutions for enterprise asset and process optimization, predictive maintenance, and decision intelligence in manufacturing and energy. | Starts ~$250,000 (Pilot) / ~$500,000 (Production) + Compute Usage | N/A (No free tier, paid pilots only) | ~$3B Market Cap / ~$310M Rev |
 
+## Open-Source GitHub Projects 🌐
 
+- **[influxdata/influxdb](https://github.com/influxdata/influxdb)** [![Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers)  
+  Purpose-built time series database extensively used in manufacturing for storing, analyzing, and visualizing IIoT and digital twin sensor data.
 
-## Open-Source GitHub Projects
-
-
-
-- **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)**  
-
-  Leading open-source digital twin framework for IoT that provides device-as-a-service abstraction, state management, access control, and APIs for interacting with physical assets.
-
-
-
-- **[Eclipse BaSyx](https://eclipse.dev/basyx/)**  
-
-  Open-source Industry 4.0 middleware implementing the Asset Administration Shell (AAS) for standardized digital twins of manufacturing assets and production systems.
-
-
-
-- **[Open Factory Twin (OFacT)](https://github.com/OpenFactoryTwin/ofact)**  
-
-  Simulation-based open-source digital twin framework for production and logistics material flows, supporting planning, real-time control, and disruption handling.
-
-
-
-- **[OpenTwins](https://github.com/ertis-research/OpenTwins)**  
-
-  Open-source framework for developing compositional (multi-entity) digital twins integrating IoT, machine learning, and 3D visualization.
-
-
-
-- **[ThingsBoard](https://github.com/thingsboard/thingsboard)**  
-
-  Open-source IoT platform with device management, rule engine, dashboards, and digital twin visualization capabilities widely used in industrial settings.
-
-
-
-- **[Gazebo / Ignition](https://github.com/gazebosim/gz-sim)**  
-
-  High-fidelity open-source robotics and multi-robot simulator frequently used to build digital twins of manufacturing cells, AGVs, and robotic systems.
-
-
-
-- **[Webots](https://github.com/cyberbotics/webots)**  
-
-  Open-source robot simulator supporting realistic physics, sensors, and multi-robot scenarios for cell-level and process digital twins.
-
-
-
-- **[OpenModelica](https://github.com/OpenModelica/OpenModelica)**  
-
-  Open-source Modelica-based modeling and simulation environment ideal for system-level and multi-domain digital twins (mechanical, thermal, electrical, etc.).
-
-
-
-- **[Node-RED](https://github.com/node-red/node-red)**  
-
+- **[node-red/node-red](https://github.com/node-red/node-red)** [![Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
   Flow-based programming tool extensively used for industrial data pipelines, edge processing, and connecting OT systems into digital twin architectures.
 
+- **[thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)** [![Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
+  Open-source IoT platform with device management, rule engine, dashboards, and digital twin visualization capabilities widely used in industrial settings.
 
+- **[emqx/emqx](https://github.com/emqx/emqx)** [![Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
+  Highly scalable, distributed MQTT broker for IoT and IIoT, crucial for real-time messaging in digital twin synchronization.
 
-- **[EdgeX Foundry](https://github.com/edgexfoundry/edgex-go)**  
+- **[cyberbotics/webots](https://github.com/cyberbotics/webots)** [![Stars](https://img.shields.io/github/stars/cyberbotics/webots?style=social&color=white)](https://github.com/cyberbotics/webots/stargazers)  
+  Open-source robot simulator supporting realistic physics, sensors, and multi-robot scenarios for cell-level and process digital twins.
 
+- **[edgexfoundry/edgex-go](https://github.com/edgexfoundry/edgex-go)** [![Stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)  
   Open-source edge IoT platform providing interoperability and data services that serve as a foundation for industrial digital twins.
 
+- **[OpenModelica/OpenModelica](https://github.com/OpenModelica/OpenModelica)** [![Stars](https://img.shields.io/github/stars/OpenModelica/OpenModelica?style=social&color=white)](https://github.com/OpenModelica/OpenModelica/stargazers)  
+  Open-source Modelica-based modeling and simulation environment ideal for system-level and multi-domain digital twins (mechanical, thermal, electrical, etc.).
 
+- **[gazebosim/gz-sim](https://github.com/gazebosim/gz-sim)** [![Stars](https://img.shields.io/github/stars/gazebosim/gz-sim?style=social&color=white)](https://github.com/gazebosim/gz-sim/stargazers)  
+  High-fidelity open-source robotics and multi-robot simulator frequently used to build digital twins of manufacturing cells, AGVs, and robotic systems.
 
-- **[DigitalTwinBuilder](https://github.com/CTLab-ITMO/DigitalTwinBuilder)**  
-
-  Open-source library and multi-agent tools for automated construction of production digital twins with sensor and camera integration.
-
-
-
-- **[Apache StreamPipes](https://github.com/apache/streampipes)**  
-
+- **[apache/streampipes](https://github.com/apache/streampipes)** [![Stars](https://img.shields.io/github/stars/apache/streampipes?style=social&color=white)](https://github.com/apache/streampipes/stargazers)  
   Self-service industrial IoT toolbox for building data pipelines and analytics that feed digital twin models.
 
+- **[eclipse-ditto/ditto](https://github.com/eclipse-ditto/ditto)** [![Stars](https://img.shields.io/github/stars/eclipse-ditto/ditto?style=social&color=white)](https://github.com/eclipse-ditto/ditto/stargazers)  
+  Leading open-source digital twin framework for IoT that provides device-as-a-service abstraction, state management, access control, and APIs for interacting with physical assets.
 
+- **[w3c/wot-thing-description](https://github.com/w3c/wot-thing-description)** [![Stars](https://img.shields.io/github/stars/w3c/wot-thing-description?style=social&color=white)](https://github.com/w3c/wot-thing-description/stargazers)  
+  Web of Things (WoT) Thing Description specification and building blocks to standardize IoT metadata for twin interop.
 
-### Additional Strong Open-Source Options
+- **[aws-samples/aws-iot-twinmaker-samples](https://github.com/aws-samples/aws-iot-twinmaker-samples)** [![Stars](https://img.shields.io/github/stars/aws-samples/aws-iot-twinmaker-samples?style=social&color=white)](https://github.com/aws-samples/aws-iot-twinmaker-samples/stargazers)  
+  Reference architectures, samples, and code for building industrial digital twins on AWS IoT TwinMaker.
 
+- **[eclipse-basyx/basyx](https://github.com/eclipse-basyx/basyx)** [![Stars](https://img.shields.io/github/stars/eclipse-basyx/basyx?style=social&color=white)](https://github.com/eclipse-basyx/basyx/stargazers)  
+  Open-source Industry 4.0 middleware implementing the Asset Administration Shell (AAS) for standardized digital twins of manufacturing assets and production systems.
 
+- **[OpenFactoryTwin/ofact](https://github.com/OpenFactoryTwin/ofact)** [![Stars](https://img.shields.io/github/stars/OpenFactoryTwin/ofact?style=social&color=white)](https://github.com/OpenFactoryTwin/ofact/stargazers)  
+  Simulation-based open-source digital twin framework for production and logistics material flows, supporting planning, real-time control, and disruption handling.
 
+- **[ertis-research/OpenTwins](https://github.com/ertis-research/OpenTwins)** [![Stars](https://img.shields.io/github/stars/ertis-research/OpenTwins?style=social&color=white)](https://github.com/ertis-research/OpenTwins/stargazers)  
+  Open-source framework for developing compositional (multi-entity) digital twins integrating IoT, machine learning, and 3D visualization.
+
+- **[CTLab-ITMO/DigitalTwinBuilder](https://github.com/CTLab-ITMO/DigitalTwinBuilder)** [![Stars](https://img.shields.io/github/stars/CTLab-ITMO/DigitalTwinBuilder?style=social&color=white)](https://github.com/CTLab-ITMO/DigitalTwinBuilder/stargazers)  
+  Open-source library and multi-agent tools for automated construction of production digital twins with sensor and camera integration.
+
+### Additional Strong Open-Source Options 🧩
 - **Asset Administration Shell (AAS)** implementations and Eclipse BaSyx ecosystem components.
-
 - **ROS 2 + Gazebo/Ignition** stacks for robotic and flexible manufacturing cell twins.
-
 - **FMI / Modelica** co-simulation standards and open simulation environments.
-
 - **OPC UA**, MQTT, and industrial protocol bridges for live twin synchronization.
-
 - Community **factory simulation**, **material-flow**, and **predictive-maintenance** digital twin prototypes.
-
 - Many research frameworks for compositional, hierarchical, and physics-informed manufacturing twins.
-
-
 
 **Frameworks for building custom systems**: Combine **Eclipse Ditto or BaSyx** for twin state and AAS standards, **Gazebo/Webots or OpenModelica** for simulation fidelity, **ThingsBoard / Node-RED / EdgeX** for IoT connectivity, and open 3D visualization layers to create a complete open-source manufacturing digital twin platform.
 
-
-
-## How to Contribute
-
-
+## How to Contribute 💡
 
 1. Fork the repo.
-
 2. Add/edit entries in `README.md` (follow existing format).
-
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
 4. Submit PR with a short explanation.
 
+Star the repo if you find it useful! ⭐
 
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
+## Disclaimer ⚠️
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
 - Digital twin implementations in manufacturing must address cybersecurity, data integrity, real-time performance, and safety requirements of OT environments.
-
 - Self-hosted open-source solutions require proper industrial-grade reliability, validation against physical systems, and compliance with relevant standards.
-
-
 
 ---
 
-
-
-**Made for manufacturing engineers, Industry 4.0 architects, digital twin developers, and industrial IoT practitioners.**  
-
+**Made for manufacturing engineers, Industry 4.0 architects, digital twin developers, and industrial IoT practitioners.** 🏭  
 Let's make digital twins for manufacturing more open, standards-based, and accessible.
+
+## Star History 📈
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Digital-Twin-For-Manufacturing&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Twin-For-Manufacturing&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Twin-For-Manufacturing&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Twin-For-Manufacturing&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
