@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Siemens Digital Twin / Xcelerator](https://www.siemens.com/)**  
-
-  Comprehensive industrial digital twin portfolio spanning product, production, and performance twins, tightly integrated with PLM, MES, automation, and simulation tools.
-
-
-
-- **[Dassault 3DEXPERIENCE](https://www.3ds.com/)**  
-
-  Virtual twin platform embedding 3D modeling, multi-physics simulation, and collaborative engineering for complex product and manufacturing process twins.
-
-
-
-- **[PTC ThingWorx](https://www.ptc.com/en/products/thingworx)**  
-
-  Industrial IoT and digital twin platform focused on connecting devices, building operational twins, analytics, and AR-guided experiences for manufacturing.
-
-
-
-- **[Bentley iTwin](https://www.bentley.com/software/itwin-platform/)**  
-
-  Infrastructure and asset digital twin platform (also applied in industrial settings) enabling visualization, analytics, and lifecycle management of complex systems.
-
-
-
-- **[C3 AI Digital Twin](https://c3.ai/)**  
-
-  AI-centric digital twin solutions for enterprise asset and process optimization, predictive maintenance, and decision intelligence in manufacturing and energy.
-
-
-
-- **[Azure Digital Twins](https://azure.microsoft.com/en-us/products/digital-twins)**  
-
-  Microsoft cloud platform for modeling environments as live graphs of digital twins, integrating IoT data, spatial intelligence, and Azure AI services.
-
-
-
-- **[Ansys Twin Builder](https://www.ansys.com/products/digital-twin/ansys-twin-builder)**  
-
-  Physics-based digital twin creation tool leveraging multi-domain simulation for high-fidelity virtual prototypes and operational twins.
-
-
-
-- **[Altair Twin Activate](https://www.altair.com/)**  
-
-  System simulation and digital twin platform for multi-physics modeling, co-simulation, and real-time twin deployment (now part of broader Altair/Siemens ecosystem).
-
-
-
-- **[AVEVA CONNECT](https://www.aveva.com/)**  
-
-  Industrial information and digital twin platform supporting process industries with real-time data, visualization, and operational intelligence.
-
-
-
-- **[Unity Industry](https://unity.com/solutions/industry)**  
-
-  Real-time 3D platform for building interactive, photorealistic digital twins of factories, equipment, and processes with strong visualization and XR capabilities.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Siemens Digital Twin / Xcelerator](https://www.siemens.com/)** | Comprehensive industrial digital twin portfolio spanning product, production, and performance twins, tightly integrated with PLM, MES, automation, and simulation tools. | Custom/Contact Sales | N/A |
+| **[Dassault 3DEXPERIENCE](https://www.3ds.com/)** | Virtual twin platform embedding 3D modeling, multi-physics simulation, and collaborative engineering for complex product and manufacturing process twins. | Custom/Contact Sales | N/A |
+| **[PTC ThingWorx](https://www.ptc.com/en/products/thingworx)** | Industrial IoT and digital twin platform focused on connecting devices, building operational twins, analytics, and AR-guided experiences for manufacturing. | Custom/Contact Sales | N/A |
+| **[Bentley iTwin](https://www.bentley.com/software/itwin-platform/)** | Infrastructure and asset digital twin platform (also applied in industrial settings) enabling visualization, analytics, and lifecycle management of complex systems. | Pay-as-you-go / Custom | Trial / Developer Tier |
+| **[C3 AI Digital Twin](https://c3.ai/)** | AI-centric digital twin solutions for enterprise asset and process optimization, predictive maintenance, and decision intelligence in manufacturing and energy. | Custom/Contact Sales | N/A |
+| **[Azure Digital Twins](https://azure.microsoft.com/en-us/products/digital-twins)** | Microsoft cloud platform for modeling environments as live graphs of digital twins, integrating IoT data, spatial intelligence, and Azure AI services. | Pay-as-you-go (per message/query) | Standard Azure Free limits |
+| **[Ansys Twin Builder](https://www.ansys.com/products/digital-twin/ansys-twin-builder)** | Physics-based digital twin creation tool leveraging multi-domain simulation for high-fidelity virtual prototypes and operational twins. | Custom/Contact Sales | Free Student Version |
+| **[Altair Twin Activate](https://www.altair.com/)** | System simulation and digital twin platform for multi-physics modeling, co-simulation, and real-time twin deployment (now part of broader Altair/Siemens ecosystem). | Custom/Contact Sales | Free Student Edition |
+| **[AVEVA CONNECT](https://www.aveva.com/)** | Industrial information and digital twin platform supporting process industries with real-time data, visualization, and operational intelligence. | Custom/Contact Sales | N/A |
+| **[Unity Industry](https://unity.com/solutions/industry)** | Real-time 3D platform for building interactive, photorealistic digital twins of factories, equipment, and processes with strong visualization and XR capabilities. | ~$4,950/yr per seat | N/A (requires Pro/Industry) |
 
 
 
